@@ -1,0 +1,14 @@
+{
+    "name": "EspoCRM-customFavicon",
+    "description": "www.automatizame.cl",
+    "author": "Cristian Riffo Huez - criffoh@playasoluciones.cl",
+    "php": [
+        ">=7.3"
+    ],
+    "acceptableVersions": [
+        ">=6.1.0"
+    ],
+    "version": "0.0.1",
+    "skipBackup": true,
+    "releaseDate": "2023-05-24"
+}
